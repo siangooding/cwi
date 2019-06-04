@@ -20,7 +20,7 @@ If you used our models, please kindly cite both our paper and the original seque
 @inproceedings{goodingkochmar,
   title={{Complex Word Identification as a Sequence Labelling Task}},
   author={Gooding, Sian and Kochmar, Ekaterina},
-  booktitle={Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Short Papers)},
+  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Short Papers)},
   pages={},
   year={2019}
 }
