@@ -6,7 +6,7 @@ In order to run the CWI models, you will need to download the original sequence 
 
 # Usage
 
-Additional functions for the CWI models are available in [complex_word.py]. Please refer to the [Example notebook](Example.ipynb) for details on how to use the models. 
+Additional functions for the CWI models are available in [complex_word.py](complex_word.py). Please refer to the [Example notebook](Example.ipynb) for details on how to use the models. 
 
 # Dataset
 
