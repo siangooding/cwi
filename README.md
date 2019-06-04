@@ -1,13 +1,9 @@
-# cwi
-Sequence labelling models for complex word identification
+# Complex Word Identification as a Sequence Labelling Task
 
-This github contains the complex word identification models from Gooding and Kochmar (2019).
+This github contains the complex word identification (CWI) models from Gooding and Kochmar (2019).
 
 The sequence model used is available here: https://github.com/marekrei/sequence-labeler, please also cite this paper if using the CWI models in your research. 
 
-In order to run the CWI models you will need to download the sequence labeller repository, you can then use the additional functions available in complex_word.py with the trained models provided. Examples are provided in the `Example' notebook. 
+In order to run the CWI models, you will need to download the original sequence labeller repository. Additional functions for the CWI models are available in complex_word.py. Please refer to the Example notebook for details on how to use the models. 
 
 
-todo:
-include bibtex?
-also show example
