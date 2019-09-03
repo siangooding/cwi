@@ -8,6 +8,6 @@ The dataset used to train these models was collected by Yimam et al., (2018) and
 
 # System Output
 
-The system output for both *SEQ*, and the winning shared task submission *CAMB* is available in [Sytem_Output](./System_Output).
+The system output for both *SEQ* and the winning shared task submission *CAMB* is available in [Sytem_Output](./System_Output).
 
 
