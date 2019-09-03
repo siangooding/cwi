@@ -1,6 +1,6 @@
 # Complex Word Identification as a Sequence Labelling Task
 
-This github contains the state-of-the-art complex word identification (CWI) models from Gooding and Kochmar (2019).
+This directory contains the state-of-the-art complex word identification (CWI) model from [Gooding and Kochmar (2019)](https://www.aclweb.org/anthology/P19-1109).
 
 # Usage
 
