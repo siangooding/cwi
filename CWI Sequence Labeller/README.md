@@ -4,7 +4,7 @@ This directory contains the state-of-the-art complex word identification (CWI) m
 
 # Usage
 
-Additional functions for the CWI models are available in [complex_word.py](complex_word.py). Please refer to the [example notebook](example.ipynb) for details on how to use the models. 
+Additional functions for the CWI models are available in [complex_labeller.py](./sequence-labeler-master/complex_labeller.py). Please refer to the [example notebook](example.ipynb) for details on how to use the models. 
 
 # Dataset
 
