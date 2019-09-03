@@ -1,7 +1,7 @@
 
 # CWI System Output
 
-This directory contains the three English test sets used in 2018 Complex Word Identification Shared Task. The system output for the winning CAMB system is provided, as well as the new SOTA SEQ system.
+This directory contains the three English test sets used in [2018 Complex Word Identification Shared Task](https://sites.google.com/view/cwisharedtask2018/). The system output for the winning [CAMB system](https://www.aclweb.org/anthology/W18-0520) is provided, as well as the new [SOTA SEQ system](https://www.aclweb.org/anthology/P19-1109).
 
 Please kindly cite the system papers if using in your research.
 
